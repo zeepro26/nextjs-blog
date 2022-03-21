@@ -1,0 +1,72 @@
+---
+title: '5 of the most favorite and 5 least favorite everyday tasks [+bonus].'
+date: '2020-03-21'
+---
+
+
+Five of the most favorite and Five least favorite everyday tasks.
+
+**Preferred**.
+
+**1. Write and maintain support articles and docs pages.**
+
+Support Articles help in case deflection, improve customer experience when customers can find resources to help resolve issues themselves. Writing comprehensive documentation promotes the image of a mature product.
+
+**2. Analyse hundreds of support tickets to spot trends the product team can use.**
+
+Identifying trends can highlight "low hanging" fruits that can help improve case turnaround times and increase the case churn rate. It can amplify customer pain points and help address the most pressing issues.
+
+**3. Work with the product team to develop a new feature based on feedback from customers.**
+
+Gives me a sense of satisfaction if I can be a key factor in translating the customers' needs into a tangible product feature.
+That a feature identified as critical to the customers in the usage of our product is implemented and delivered to the customers' satisfaction.
+
+**4. Work with engineering teams during incidents and provide updates to internal and external stakeholders.**
+
+During critical incidents [production system down, service unavailability, etc] information dissemination is highly critical. I like to be on the fore-front to absorb the pressure from customers and not let it percolate down to the development teams who need to focus on resolving the issue at hand. I take faith in my ability to de-escalate high-pressure situations.
+
+**5. Work with people to figure out if Vercel is suitable for their use case.**
+
+I find it joyous to work on proof-of-concept projects that explore a product's capability to achieve the business/technical needs of the customer.
+
+**Bonus preferred tasks. [I know the question said 5, however, I couldn't skip them due to their sheer importance in the Support Parlance.]** 
+
+**1. Create video tutorials to help teach users a specific feature or use case.**
+
+Research shows that a "feel good" factor is associated when a customer/user can implement a feature by themselves by consuming a step-by-step video tutorial rather than having to go through clunky documentation. I also have a flair for writing and recording product demons which I can leverage to create video content.
+
+**2. Run ticket review sessions to make sure the tone is consistent.**
+
+It is extremely important to represent a single voice/face to the customer. To ensure that we provide a high-quality and consistent experience irrespective of which support executive/ touchpoint the customer interacts with, it's critical that the team maintains a consistent tone.
+
+**3. Act as a dedicated CSE for a handful of key customers to ensure their success using Vercel.**
+
+In my experience, I've donned the hat of a Customer Experience Manager where my key job was to ensure that key customers see the benefits of their investment in the product.
+
+I've also observed that when the customer has a SPOC, it's easier to build a solid rapport which in turn makes the job of dealing with the customer on a daily basis easier.
+
+**Less preferred tasks.**
+
+**1. Help resolve billing issues for customers.**
+
+Personally, there's little learning for me in it. This task should be delegated to a dedicated billing team that has the required experience and know-how on how to deal with billing issues. Of course, when needed, we can provide the necessary customer context such as their usage of the product, scalability requirements, etc.
+
+**2. Scheduling time-off coverage and collaborating as part of a growing cohesive support team.**
+
+This task can be automated with the help of scheduling systems. Ensuring we have coverage around the clock and information is dispersed across the team is paramount and hence a standardized model should govern these activities.
+
+**3. Find and recruit teammates for the support team.**
+
+I'd like to be a part of the interview process and a key factor in determining the talent that joins our global workforce. However, my technical experience can only evaluate a candidate's technical prowess. To gauge a candidates' personal strengths, cultural fit to our global team etc is a job best fit for the experts [read HR].
+
+**4. Respond to 50+ support requests via email every day.**
+
+Dealing with that large volume of cases quickly leads to a burn-out.
+
+In my experience, if the daily volume of cases is that large, we are missing an important picture.\
+I'd start by doing a deep dive into what are the drivers of these cases. I'd attempt to answer questions such as how many of these cases are redundant? Can any of them be deflected with a Support Article or Video tutorial? What is the Defect-to-Case ratio? If the defect percentage is too high, I'd start looking at the testing procedures.  Are the right stakeholders involved during the build process?
+
+**5. Manage a support team.**
+
+To ascend to a managerial position is on my cards, however, it's not immediate.\
+Going by a strict dictionary definition of the term "management" which more often than not stands for operations management, performance management, resource management, and the like, I'd rather lead a team by leveraging my technical experience.
