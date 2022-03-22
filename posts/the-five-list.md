@@ -1,10 +1,10 @@
 ---
-title: '5 of the most favorite and 5 least favorite everyday tasks [+bonus].'
+title: '5 of my most favorite and 5 least favorite everyday tasks [+bonus].'
 date: '2020-03-21'
 ---
 
 
-Five of the most favorite and Five least favorite everyday tasks.
+5 of my most favorite and 5 least favorite everyday tasks [+ bonus preferred tasks].
 
 **Preferred**.
 
@@ -29,7 +29,7 @@ During critical incidents [production system down, service unavailability, etc] 
 
 I find it joyous to work on proof-of-concept projects that explore a product's capability to achieve the business/technical needs of the customer.
 
-**Bonus preferred tasks. [I know the question said 5, however, I couldn't skip them due to their sheer importance in the Support Parlance.]** 
+**Bonus Preferred Tasks. [I know the question said 5, however, I couldn't skip them due to their sheer importance in the Support Parlance.]** 
 
 **1. Create video tutorials to help teach users a specific feature or use case.**
 
