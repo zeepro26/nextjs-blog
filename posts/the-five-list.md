@@ -1,5 +1,5 @@
 ---
-title: '5 of my most favorite and 5 least favorite everyday tasks [+bonus].'
+title: '5 of my most favorite and 5 least favorite everyday tasks [+ bonus preferred tasks].'
 date: '2020-03-21'
 ---
 
