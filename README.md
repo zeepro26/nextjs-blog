@@ -1,1 +1,1 @@
-Vercel Interview Test Blog using NextJS
+Vercel Interview Blog using NextJS
