@@ -1,1 +1,1 @@
-Sample blog template using Next.js
+Vercel Interview Blog using NextJS
